@@ -348,6 +348,13 @@ const themes = {
     text_color: "574038",
     bg_color: "F5E1C0",
   },
+  //because github_dark color doesn't work
+  github_color: {
+   title_color: "58A6FF",
+   icon_color: "1F6FEB",
+   text_color: "C3D1D9", 
+   bg_color: "111318",
+  },
 };
 
 module.exports = themes;
